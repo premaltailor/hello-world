@@ -10,4 +10,4 @@
 
 This is an example of a GitHub repository.
 
-(c) 2021 Me !
+(c) 2021 Me
